@@ -1,84 +1,114 @@
-🍔 OMATO Food Delivery Dashboard
-📌 Project Overview
+# 🍔 OMATO Food Delivery Dashboard
 
-The OMATO Food Delivery Dashboard is an interactive Power BI project designed to analyze food delivery operations and customer ordering patterns. It provides insights into total orders, quantities sold, transaction trends, delivery performance, payment methods, member types, and food item popularity through dynamic visualizations and filters.
+## 🚀 Project Overview
 
-🎯 Objectives
-Monitor overall food delivery performance.
-Analyze monthly order and quantity trends.
-Track delivery success and cancellation rates.
-Understand customer behavior based on membership type.
-Identify top-performing and low-performing food items.
-Evaluate preferred payment methods.
-📊 Dashboard Features
-Top Analysis Dashboard
-Total Quantity KPI
-Total Transactions KPI
-Average Quantity KPI
-Monthly Quantity Analysis
-Top 10 Food Items by Quantity
-Member Type Order Distribution
-Delivery Status Analysis
-Payment Method Analysis
-Interactive Month Filters
-Bottom Analysis Dashboard
-Bottom 5 Food Items by Quantity
-Monthly Quantity Trend Analysis
-Detailed Member Type Performance Table
-Delivery Summary Metrics
-Dynamic Slicers and Navigation Buttons
-🛠️ Tools & Technologies
-Power BI Desktop
-Power Query
-DAX (Data Analysis Expressions)
-Data Modeling
-Interactive Visualizations
-📈 Key Insights
-Analyze food ordering trends across months.
-Compare Gold and Regular members.
-Monitor delivered vs cancelled orders.
-Identify most and least popular food items.
-Track customer payment preferences.
-📂 Dashboard Components
-KPI Cards
-Bar Charts
-Line Charts
-Donut Charts
-Matrix Tables
-Slicers
-Navigation Buttons
-🚀 How to Use
-Open the .pbix file in Power BI Desktop.
-Refresh the dataset if required.
-Use the slicers to filter data by:
-Month
-Member Type
-Payment Mode
-Restaurant Type
-Explore insights through interactive visualizations.
-📸 Dashboard Preview
-Top Analysis Dashboard
+An interactive Food Delivery Dashboard built using Power BI to analyze food orders, customer behavior, payment methods, and delivery performance.
 
-<img width="1030" height="667" alt="Screenshot 2026-06-22 140959" src="https://github.com/user-attachments/assets/e86591ce-b3ff-40d1-a74d-ea0bce7de13d" />
+This dashboard transforms raw food delivery data into meaningful business insights through interactive visualizations, KPIs, and dynamic filters.
+
+---
+
+## 📊 Dashboard Highlights
+
+### 📌 Interactive Filter Panel
+- Month-wise filtering
+- Member Type filtering
+- Payment Mode filtering
+- Food Type filtering
+- Restaurant Type filtering
+
+### 📈 Key Performance Indicators (KPIs)
+- Total Quantity Ordered
+- Total Transactions
+- Average Quantity per Order
+- Delivered Orders
+
+### 🍽️ Food Analysis
+- Top 10 Food Items by Quantity Sold
+- Bottom 5 Food Items by Quantity Sold
+- Food-wise Quantity Distribution
+
+### 👥 Customer Insights
+- Quantity Orders by Member Type
+- Gold vs Regular Customer Analysis
+- Customer Ordering Patterns
+
+### 💳 Payment Analysis
+- UPI Transactions
+- Cash on Delivery (COD)
+- Card Payments
+- Payment Method Performance
+
+### 🚚 Delivery Analysis
+- Delivered Orders
+- Cancelled Orders
+- Delivery Status Distribution
+
+### 📅 Trend Analysis
+- Monthly Quantity Ordered
+- Monthly Transaction Trends
+- Year-wise Order Performance
+
+---
+
+## 🛠️ Tools & Technologies Used
+
+- Power BI
+- Power Query
+- DAX
+- Data Modeling
+- Data Visualization
+- Interactive Slicers
+
+---
+
+## 📷 Dashboard Preview
+
+### Dashboard 1
+
+<img width="1030" height="667" alt="Screenshot 2026-06-22 140959" src="https://github.com/user-attachments/assets/5ff43093-5c80-4bd2-a695-13f62a0fc434" />
 
 
-Bottom Analysis Dashboard
+### Dashboard 2
 
-<img width="1029" height="666" alt="Screenshot 2026-06-22 141138" src="https://github.com/user-attachments/assets/210b62fa-180e-4ae7-9df3-4c5c742515e2" />
+<img width="1029" height="666" alt="Screenshot 2026-06-22 141138" src="https://github.com/user-attachments/assets/6b50eda1-d4ff-4fd9-ad90-0fcbf0408ac0" />
 
 
-📌 Project Highlights
+---
 
-✔ Interactive and user-friendly design
-✔ Dynamic filtering capabilities
-✔ Business-focused insights
-✔ Comprehensive food delivery analytics
-✔ Professional Power BI dashboard layout
+## 📚 Key Learnings
 
-🤝 Contributing
+- Designing interactive dashboards in Power BI
+- Creating KPI cards and business metrics
+- Building dynamic reports using slicers
+- Data transformation using Power Query
+- Creating DAX measures and calculations
+- Presenting insights through effective visualizations
 
-Contributions, suggestions, and improvements are welcome. Feel free to fork this repository and submit pull requests.
+---
 
-⭐ Support
+## 💡 Business Use Cases
 
-If you found this project useful, please give the repository a Star ⭐ and share your feedback.
+- Food Delivery Performance Monitoring
+- Customer Behavior Analysis
+- Payment Method Analysis
+- Restaurant Performance Tracking
+- Sales and Order Trend Analysis
+
+---
+
+## 🔮 Future Enhancements
+
+- Profit and Revenue Analysis
+- Delivery Time Analysis
+- Customer Retention Metrics
+- Forecasting and Predictive Analytics
+- Real-time Data Integration
+
+---
+
+## 🙌 Feedback
+
+If you found this project useful, consider giving it a ⭐.
+
+Feel free to fork this repository and contribute improvements.
