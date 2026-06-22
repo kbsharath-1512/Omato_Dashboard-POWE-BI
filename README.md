@@ -66,12 +66,12 @@ This dashboard transforms raw food delivery data into meaningful business insigh
 
 ### Dashboard 1
 
-<img width="1030" height="667" alt="Screenshot 2026-06-22 140959" src="https://github.com/user-attachments/assets/5ff43093-5c80-4bd2-a695-13f62a0fc434" />
+<img width="900" height="667" alt="Screenshot 2026-06-22 140959" src="https://github.com/user-attachments/assets/5ff43093-5c80-4bd2-a695-13f62a0fc434" />
 
 
 ### Dashboard 2
 
-<img width="1029" height="666" alt="Screenshot 2026-06-22 141138" src="https://github.com/user-attachments/assets/6b50eda1-d4ff-4fd9-ad90-0fcbf0408ac0" />
+<img width="900" height="666" alt="Screenshot 2026-06-22 141138" src="https://github.com/user-attachments/assets/6b50eda1-d4ff-4fd9-ad90-0fcbf0408ac0" />
 
 
 ---
